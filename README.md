@@ -66,7 +66,6 @@ Human Resource Management · Marketing · Finance · Business Operations · Recr
 - 🌐 Portfolio: [pravin-kr.netlify.app](https://pravin-kr.netlify.app)
 - 💼 LinkedIn: [linkedin.com/in/pravinkumar11](linkedin.com/in/pravinkumar11)
 - 📧 Email: pravinkrktr19@gmail.com
-- 📱 Phone: +91 9110104390
 - 📍 Location: Katihar, Bihar, India
 
 ---
