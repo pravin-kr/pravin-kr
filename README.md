@@ -1,16 +1,33 @@
 <!--
-  🔧 QUICK SETUP:
-  Replace every "pravin-kr" below with your actual GitHub username
-  so the stats, streak, trophy, and visitor-count widgets work correctly.
+  🔧 QUICK SETUP — read this first:
+  1. Create a folder named "assets" in this repo and put all the .svg files
+     (that came with this README) inside it.
+  2. Open the README in a text editor and replace every "pravin-kr"
+     with your actual GitHub username (used for stats/streak/trophy/visitor-count).
+  3. Commit + push. Done — your profile page will look like this.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=210&section=header&text=Hi%20There!%20I'm%20Pravin%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20%2B%20People%20%2B%20AI%20Workflows&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" alt="Pravin Kumar" width="100%">
+</picture>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=BBA+Student+%40+Arcade+Business+College;Sales+%2B+HR+%2B+Business+Operations;Exploring+AI+in+Recruitment+%26+Hiring;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Turning+spreadsheets+into+decisions;Sales+%2B+HR+%2B+Business+Operations;Exploring+AI+in+Recruitment+%26+Hiring;Currently%3A+Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-161B22?style=for-the-badge&logoColor=white" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-161B22?style=for-the-badge&logoColor=white" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-161B22?style=for-the-badge&logoColor=white" /></a>
+<a href="#certifications"><img src="https://img.shields.io/badge/Certifications-161B22?style=for-the-badge&logoColor=white" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-161B22?style=for-the-badge&logoColor=white" /></a>
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://pravin-kr.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravinkumar11)
@@ -20,7 +37,10 @@
 
 <br>
 
-## 🧠 About Me
+<a id="about"></a>
+<img src="./assets/title-about.svg" width="260">
+
+<br><br>
 
 - 🎓 Second-year **BBA** student at **Arcade Business College, Patna** (Patliputra University)
 - 💼 Real hands-on experience in **Sales**, **HR**, and **Business Operations** through internships
@@ -31,29 +51,39 @@
 
 <br>
 
-## 📊 GitHub Stats
+<img src="./assets/title-stats.svg" width="260">
+
+<br><br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pravin-kr&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-kr&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pravin-kr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-kr&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pravin-kr&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pravin-kr&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
 <br>
 
-## 🎓 Education
+<img src="./assets/title-education.svg" width="260">
 
-| Degree | Institution | Duration |
-|---|---|---|
-| BBA (Business Administration) | Arcade Business College, Patna (Patliputra University) | 2024 – 2027 |
-| Intermediate | R.K.K. College, Katihar | 2022 – 2024 |
+<br><br>
+
+<table>
+<tr><th>Degree</th><th>Institution</th><th>Duration</th></tr>
+<tr><td>BBA (Business Administration)</td><td>Arcade Business College, Patna (Patliputra University)</td><td>2024 – 2027</td></tr>
+<tr><td>Intermediate</td><td>R.K.K. College, Katihar</td><td>2022 – 2024</td></tr>
+</table>
 
 <br>
 
-## 💼 Experience
+<a id="experience"></a>
+<img src="./assets/title-experience.svg" width="280">
+
+<br><br>
+
+<img src="./assets/timeline.svg" width="100%">
 
 <details>
 <summary><b>💰 Sales Trainee — Bajaj Finserv, Patna</b> <i>(Sep – Nov 2025)</i> — click to expand</summary>
@@ -77,45 +107,44 @@
 
 <br>
 
-## 🛠 Tools & Skills
+<a id="skills"></a>
+<img src="./assets/title-skills.svg" width="260">
+
+<br><br>
 
 <div align="center">
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6C63FF?style=flat-square)
-![Recruitment Analytics](https://img.shields.io/badge/Recruitment%20Analytics-FF6584?style=flat-square)
-![ATS Optimization](https://img.shields.io/badge/ATS%20Optimization-00A6A6?style=flat-square)
-![AI Workflows](https://img.shields.io/badge/AI%20Workflow%20Integration-2D2D2D?style=flat-square)
-![Sales Operations](https://img.shields.io/badge/Sales%20Operations-FFA500?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-4CAF50?style=flat-square)
-![Teamwork](https://img.shields.io/badge/Teamwork-3F51B5?style=flat-square)
-
+<img src="./assets/skills.svg" width="100%">
 </div>
 
 <br>
 
-## 📜 Certifications
+<a id="certifications"></a>
+<img src="./assets/title-certs.svg" width="290">
 
-<details>
-<summary>Click to see all certifications 📂</summary>
+<br><br>
+
+<details open>
+<summary><b>Click to collapse / expand</b> 📂</summary>
 <br>
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Foundations of Project Management | Google | Jun 2025 |
-| Project Initiation: Starting a Successful Project | Google | Aug 2025 |
-| How to Visualize Your Data Using Microsoft PowerPoint | Coursera | Mar 2025 |
-| Work Smarter with Microsoft PowerPoint | Microsoft | Apr 2025 |
-| Internship Common Aptitude Test | Internship Studio | Jun 2025 |
-| Financial Management Skill | MSDE Skill India | May 2026 |
-| 🏆 Inter-Departmental Indoor Games — 1st Place (Sudoku) | Arcade Business College | Sep 2025 |
+<table>
+<tr><th>Certificate</th><th>Issuer</th><th>Year</th></tr>
+<tr><td>Foundations of Project Management</td><td>Google</td><td>Jun 2025</td></tr>
+<tr><td>Project Initiation: Starting a Successful Project</td><td>Google</td><td>Aug 2025</td></tr>
+<tr><td>How to Visualize Your Data Using Microsoft PowerPoint</td><td>Coursera</td><td>Mar 2025</td></tr>
+<tr><td>Work Smarter with Microsoft PowerPoint</td><td>Microsoft</td><td>Apr 2025</td></tr>
+<tr><td>Internship Common Aptitude Test</td><td>Internship Studio</td><td>Jun 2025</td></tr>
+<tr><td>Financial Management Skill</td><td>MSDE Skill India</td><td>May 2026</td></tr>
+<tr><td>🏆 Inter-Departmental Indoor Games — 1st Place (Sudoku)</td><td>Arcade Business College</td><td>Sep 2025</td></tr>
+</table>
 
 </details>
 
 <br>
 
-## 🎯 Where I'm Headed
+<img src="./assets/title-goals.svg" width="280">
+
+<br><br>
 
 <div align="center">
 
@@ -125,24 +154,25 @@
 
 <br>
 
-## 🍳 Beyond the Desk
+<img src="./assets/title-fun.svg" width="280">
+
+<br><br>
 
 When I'm not buried in spreadsheets or job boards, I'm probably experimenting in the kitchen — cooking is my go-to way to unwind.
 
-<br>
+<br><br>
 
----
-
+<a id="connect"></a>
 <div align="center">
 
-### 📬 Let's Connect
+<img src="./assets/footer-cta.svg" width="100%">
+
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://pravin-kr.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravinkumar11)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pravinkrktr19@gmail.com)
 
-**Open to internships in HR, Marketing, Finance & Business Operations 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=pravin-kr&label=Profile%20Views&color=6C63FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=pravin-kr&label=Profile%20Views&color=A78BFA&style=flat-square" />
 
 </div>
