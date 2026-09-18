@@ -35,10 +35,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pravin-kr&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravin-kr&theme=radical&hide_border=true" width="48%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pravin-kr&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -143,6 +143,6 @@ When I'm not buried in spreadsheets or job boards, I'm probably experimenting in
 
 **Open to internships in HR, Marketing, Finance & Business Operations 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=pravin-kr&label=Profile%20Views&color=6C63FF&style=flat" />
 
 </div>
