@@ -1,0 +1,27 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgF" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#1a1a3d"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+    <linearGradient id="tGradF" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <clipPath id="rf"><rect width="1200" height="180" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rf)">
+    <rect width="1200" height="180" fill="url(#bgF)"/>
+    <circle cx="100" cy="30" r="120" fill="#a855f7" fill-opacity="0.18">
+      <animate attributeName="cx" values="100;140;100" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="150" r="130" fill="#f472b6" fill-opacity="0.16">
+      <animate attributeName="cx" values="1100;1060;1100" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="600" y="80" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="32" font-weight="800" fill="url(#tGradF)">Let's Build Something Together 🚀</text>
+    <text x="600" y="120" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="17" fill="#c7c9e0">Open to internships in HR &#183; Marketing &#183; Finance &#183; Business Operations</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="178" rx="23" fill="none" stroke="url(#tGradF)" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>

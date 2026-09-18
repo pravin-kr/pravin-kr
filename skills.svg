@@ -1,0 +1,58 @@
+<svg width="1200" height="178" viewBox="0 0 1200 178" xmlns="http://www.w3.org/2000/svg">
+
+  <g>
+    <rect x="124" y="10" width="193" height="42" rx="21" fill="#1D6F42"/>
+    <text x="220" y="37" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Microsoft Excel</text>
+  </g>
+  <g>
+    <rect x="331" y="10" width="242" height="42" rx="21" fill="#B7472A"/>
+    <text x="452" y="37" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Microsoft PowerPoint</text>
+  </g>
+  <g>
+    <rect x="587" y="10" width="223" height="42" rx="21" fill="#7C3AED"/>
+    <text x="698" y="37" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Data Visualization</text>
+  </g>
+  <g>
+    <rect x="824" y="10" width="252" height="42" rx="21" fill="#DB2777"/>
+    <text x="950" y="37" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Recruitment Analytics</text>
+  </g>
+  <g>
+    <rect x="74" y="68" width="203" height="42" rx="21" fill="#0891B2"/>
+    <text x="176" y="95" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">ATS Optimization</text>
+  </g>
+  <g>
+    <rect x="291" y="68" width="272" height="42" rx="21" fill="#111827"/>
+    <text x="427" y="95" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">AI Workflow Integration</text>
+  </g>
+  <g>
+    <rect x="577" y="68" width="203" height="42" rx="21" fill="#D97706"/>
+    <text x="679" y="95" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Sales Operations</text>
+  </g>
+  <g>
+    <rect x="794" y="68" width="332" height="42" rx="21" fill="#4338CA"/>
+    <text x="960" y="95" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Documentation &amp; Reporting</text>
+  </g>
+  <g>
+    <rect x="332" y="126" width="213" height="42" rx="21" fill="#059669"/>
+    <text x="438" y="153" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Customer Handling</text>
+  </g>
+  <g>
+    <rect x="558" y="126" width="173" height="42" rx="21" fill="#2563EB"/>
+    <text x="645" y="153" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Communication</text>
+  </g>
+  <g>
+    <rect x="745" y="126" width="123" height="42" rx="21" fill="#DC2626"/>
+    <text x="807" y="153" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Teamwork</text>
+  </g>
+</svg>

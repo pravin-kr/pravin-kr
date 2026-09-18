@@ -1,0 +1,82 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fdf2f8"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#8888aa" fill-opacity="0.1"/>
+    </pattern>
+    <clipPath id="roundedFrame">
+      <rect width="1200" height="300" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundedFrame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+
+    <circle cx="150" cy="70" r="150" fill="url(#orb1)">
+      <animate attributeName="cy" values="70;105;70" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="235" r="170" fill="url(#orb2)">
+      <animate attributeName="cy" values="235;200;235" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="610" cy="270" r="130" fill="url(#orb3)">
+      <animate attributeName="cx" values="610;660;610" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="600" y="118" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="58" font-weight="800" fill="url(#textGrad)">
+      Hi, I'm Pravin Kumar
+      <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0s" fill="freeze"/>
+    </text>
+
+    <text x="600" y="160" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="21" fill="#4b4b63" letter-spacing="0.5">
+      Business Operations &#183; HR &amp; Sales &#183; AI-Powered Workflows
+    </text>
+
+
+  <g>
+    <rect x="299.5" y="222" width="185" height="34" rx="17" fill="#1a1a3d"/>
+    <text x="392" y="244" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="700"
+          fill="#ffffff">📍 Katihar, Bihar</text>
+  </g>
+
+  <g>
+    <rect x="498.3" y="222" width="157" height="34" rx="17" fill="#1a1a3d"/>
+    <text x="577" y="244" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="700"
+          fill="#ffffff">🎓 BBA Student</text>
+  </g>
+
+  <g>
+    <rect x="669.2" y="222" width="231" height="34" rx="17" fill="#1a1a3d"/>
+    <text x="785" y="244" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="700"
+          fill="#ffffff">🚀 Open to Internships</text>
+  </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="298" rx="25" fill="none" stroke="url(#textGrad)" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>
